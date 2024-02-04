@@ -8,7 +8,7 @@
 2. Once you are on the correct site just press `Login` in the extension and it does all for you.
 3. Simply, open `chrome://extensions` and open the developer mode.
 4. Use **Load Unpacked** and select the UI Folder.
-<img src="https://github.com/AmanNegi/LPU-Internet-Assist/assets/37607224/20f21fea-082e-42db-91e8-33eb5fc3d67f" height="300px" />
+<img src="Images/preview.png" height="300px" />
    
 ### Without UI (for devs) 🧑‍💻
 

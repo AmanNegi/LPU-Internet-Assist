@@ -1,0 +1,16 @@
+{
+  "name": "LPU Assist",
+  "version": "1.0.0",
+  "description": "Assists you with troublesome LPU Internet",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "LPUAssist",
+    "default_icon": {
+      "128": "logo.png"
+    }
+  },
+   
+  "permissions": ["activeTab", "tabs", "scripting", "notifications"],
+  "host_permissions": ["*://*/"]
+}

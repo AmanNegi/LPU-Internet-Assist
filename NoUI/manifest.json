@@ -1,0 +1,16 @@
+{
+  "name": "LPU Internet Assist",
+  "version": "1.0.0",
+  "description": "Assists you with troublesome LPU Internet",
+  "manifest_version": 2,
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "browser_action": {
+    "default_icon": {
+      "128": "logo.png"
+    }
+  },
+  "permissions": ["activeTab", "tabs"]
+}
